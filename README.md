@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
-
-
-*![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)*
-
-**![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)**
-
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){ width="225px" }
 
 <!--
 
