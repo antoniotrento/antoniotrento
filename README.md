@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 
 | - | - |
 |---|---|
-| I am text to the left  | ![Flowers](/flowers.jpeg) |
-| ![Flowers](/flowers.jpeg) | I am text to the right |
-
-<div style="float:left;margin:0 30px 30px 0">
-    ![book](https://octodex.github.com/images/stormtroopocat.jpg)
-</div>
+| I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
+| ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) | I am text to the right |
 
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){: .callout}
