@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg ){: .callout}
+| - | - |
+|---|---|
+| I am text to the left  | ![Flowers](/flowers.jpeg) |
+| ![Flowers](/flowers.jpeg) | I am text to the right |
 
-| - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
+<div style="float:left;margin:0 30px 30px 0" markdown="1">
+    ![book](https://octodex.github.com/images/stormtroopocat.jpg)
+</div>
+
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){: .callout}
 
 <!--
 
