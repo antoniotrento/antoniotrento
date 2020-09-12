@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
+<p align="right" width="100%">
+    This text is also aligned to the right.<br>
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
+
+--------------------------------------------------------------------------------
+
+**Align left (works fine):**
+
+<img align="left" width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+
+[Arduino](https://en.wikipedia.org/wiki/Arduino) (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits.
+
+
 <!--
 
 https://octodex.github.com/
@@ -35,9 +49,13 @@ https://markdown-it.github.io/
 
 https://github.com/github/markup
 
+https://gist.github.com/kivikakk/622b5dcf395e26c49e2334f0eb19e6f9
+
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
+
+https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/master/markdown/github_readme_center_and_align_images.md
 
 -->
 
