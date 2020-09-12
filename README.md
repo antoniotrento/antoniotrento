@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | I am text to the left  | ![Flowers](/flowers.jpeg) |
 | ![Flowers](/flowers.jpeg) | I am text to the right |
 
-<div style="float:left;margin:0 30px 30px 0" markdown="1">
+<div style="float:left;margin:0 30px 30px 0">
     ![book](https://octodex.github.com/images/stormtroopocat.jpg)
 </div>
 
