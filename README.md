@@ -4,8 +4,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@lantoniotrento-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lantoniotrento)](https://twitter.com/lantoniotrento) [![Linkedin Badge](https://img.shields.io/badge/-antoniotrento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniotrento/)](https://www.linkedin.com/in/antoniotrento/)
 
-<br />
-
 ## I'm 🎯Focusing 
 
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
@@ -87,6 +85,9 @@
 <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@lantoniotrento-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lantoniotrento)](https://twitter.com/lantoniotrento) [![Linkedin Badge](https://img.shields.io/badge/-antoniotrento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniotrento/)](https://www.linkedin.com/in/antoniotrento/)
+
+<br />
+<br />
 
 Credits to [Github](https://github.com) for Octocat images as a [fair-use](https://octodex.github.com/faq/#can-i-use-an-octocat-as-my-app-logo-or-icon)
 
