@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
 <!--
 
 https://octodex.github.com/
@@ -32,6 +35,16 @@ https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
 https://github.com/DavidWells/markdown-magic
 
 https://markdown-it.github.io/
+
+-->
+
+<!--
+
+https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif
+
+https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/source.gif
+
+
 
 -->
 
