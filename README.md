@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg =100x20)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
 
+
+*![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)*
+
+**![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)**
 
 
 <!--
