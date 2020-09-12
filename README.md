@@ -1,12 +1,12 @@
 # Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
 
+## Description under construction because I'm 🎯Focusing 
+
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
 
 <br />
 
 ---
-
-## Description under construction because I'm 🎯Focusing 
 
 **I'm looking to undersand what I'll do in my future** with the lot of things that I have learned in the past 10 years:
 
