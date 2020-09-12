@@ -1,6 +1,9 @@
-<img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
-
 # Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
+
+<br />
+<br />
+
+<img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
 
 ## Description under construction because I'm 🎯Focusing 
 
@@ -12,6 +15,9 @@
 4. 👨🏻‍💻 Nerd stufs like coding, Build up web app enviroments, play with hardwares
 
 <!-- Emoji from https://getemoji.com/ -->
+<br />
+<br />
+
 
 ## Best things that I made
 
@@ -20,6 +26,9 @@
 3. <p align="left"><a href="https://fomofoto.net" target="_blank">Fomofoto <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" alt="amp" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 4. <a href="https://jamstackthemes.dev/theme/jekyll-helium-theme/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="20" height="20"/></a>[`Jorigamy`](https://jorigamy.github.io)
 5. <a href="https://jamstackthemes.dev/theme/jekyll-helium-theme/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="20" height="20"/></a>[Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
+
+<br />
+<br />
 
 ## Now I'm 🎯Focusing on
 
@@ -43,6 +52,8 @@
 
 --------------------------------------------------------------------------------
 
+<br />
+<br />
 <br />
 <br />
 
