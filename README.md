@@ -1,6 +1,6 @@
 <!--<img align="right" src="https://github.com/labtocat/labtocat/blob/master/bat.png" alt="Illustration of me everyday" width=225px height=351px />-->
-<img align="right" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" width=343px height=480px />
-<p align="right">a gif from carlburton.io</p>
+<div  align="right" width=343px height=480px><img align="right" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
+<p>a gif from carlburton.io</p></div>
 ### Hi there 👋
 
 **antoniotrento/antoniotrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
