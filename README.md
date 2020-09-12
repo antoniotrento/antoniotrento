@@ -22,11 +22,11 @@
 
 ---
 
-1. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-new-age/" target="_blank">Jekyll New Age theme <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
-2. <p align="left"><a href="https://pyagmail.netlify.app/" target="_blank">Pyagmail <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="18" height="18"/></a></p>
-3. <p align="left"><a href="https://fomofoto.net" target="_blank">Fomofoto <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" alt="amp" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
-4. <p align="left"><a href="https://jorigamy.github.io" target="_blank">Jorigamy <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
-5. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-helium-theme/" target="_blank">Helium Theme <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+1. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-new-age/" target="_blank"><b>Jekyll New Age theme</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+2. <p align="left"><a href="https://pyagmail.netlify.app/" target="_blank"><b>Pyagmail</b> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="18" height="18"/></a></p>
+3. <p align="left"><a href="https://fomofoto.net" target="_blank"><b>Fomofoto</b> <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" alt="amp" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+4. <p align="left"><a href="https://jorigamy.github.io" target="_blank"><b>Jorigamy</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+5. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-helium-theme/" target="_blank"><b>Helium Theme</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 
 ---
 
@@ -59,6 +59,7 @@
 
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/inspectocat.jpg" alt="An Octocat from github.com" />
 
+<br />
 <br />
 
 ---
