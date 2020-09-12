@@ -1,28 +1,6 @@
+# Usefull links and markdown tools
+
 <!--
-
-<p align="right" width="100%">
-    This text is also aligned to the right.<br>
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
-
---------------------------------------------------------------------------------
-
-**Align left (works fine):**
-
-<img align="left" width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-
-**antoniotrento/antoniotrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Contrib
 
@@ -36,8 +14,6 @@ Here are some ideas to get you started:
 [![7](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/7)
 
 -->
-
-<!--
 
 https://octodex.github.com/
 
@@ -75,7 +51,6 @@ https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f
 
 https://zzetao.github.io/awesome-github-profile/
 
--->
 
 <!--
 
@@ -109,7 +84,7 @@ With a reference later in the document defining the URL location:
 -->
 
 <!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
-<!--<details>
+<details>
 <summary>Click to expand</summary>
 
 - [About](#about)
@@ -131,5 +106,5 @@ With a reference later in the document defining the URL location:
 - [Prior Art](#prior-art)
 - [License](#license)
 
-</details>-->
+</details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
