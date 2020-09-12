@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-<div width=50%>![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)</div>
-
 <!--
 
 https://www.xaprb.com/blog/how-to-style-images-with-markdown/
