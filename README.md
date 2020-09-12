@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg ){: width=150 height=100 style="float:right; padding:16px"}
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg ){: .callout}
 
 <!--
 
