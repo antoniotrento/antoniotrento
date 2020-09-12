@@ -1,6 +1,10 @@
 # Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
 
+<br />
+
 [![Twitter Badge](https://img.shields.io/badge/-@lantoniotrento-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lantoniotrento)](https://twitter.com/lantoniotrento) [![Linkedin Badge](https://img.shields.io/badge/-antoniotrento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniotrento/)](https://www.linkedin.com/in/antoniotrento/)
+
+<br />
 
 ## I'm 🎯Focusing 
 
