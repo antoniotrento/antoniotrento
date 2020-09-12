@@ -1,15 +1,3 @@
-<style>
- .grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
-</style>
-
 <img align="right" style="padding-top: 50px!important"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" width="225px" height="351px" />
 
 # Hi there 👋
