@@ -4,6 +4,32 @@
 
 ## Description under construction because I'm 🎯Focusing 
 
+I'm looking to undersand what I'll do with the lot of things that I have learned in the past 10 years:
+
+1. Web Marketing strategies (Yep a realy vast field of knowledge)
+2. Marketing and comunication stuffs
+3. Front end dev with static tecnologies
+4. Nerd stufs like coding, Build up web app enviroments, play with hardwares
+
+## Best things that I made
+
+1. [Jekyll New Age Theme](https://jamstackthemes.dev/theme/jekyll-new-age/)
+2. [`Pyagmail`](https://pyagmail.netlify.app/)
+3. [Fomofoto](https://fomofoto.net)
+4. [`Jorigamy`](https://jorigamy.github.io)
+5. [Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
+
+## Now I'm 🎯Focusing on
+
+[![0](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/0)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/0)
+[![1](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/1)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/1)
+[![2](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/2)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/2)
+[![3](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/3)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/3)
+[![4](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/4)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/4)
+[![5](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/5)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/5)
+[![6](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/6)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/6)
+[![7](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/7)
+
 --------------------------------------------------------------------------------
 
 <!--
