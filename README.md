@@ -39,6 +39,7 @@
 3. <p align="left"><a href="https://fomofoto.net" target="_blank"><b>Fomofoto</b> <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" alt="amp" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 4. <p align="left"><a href="https://jorigamy.github.io" target="_blank"><b>Jorigamy</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 5. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-helium-theme/" target="_blank"><b>Helium Theme</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+6. <p align="left"><a href="https://barbajekyll.github.io" target="_blank"><b>BarbaJekyll</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 
 ---
 
