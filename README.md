@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![](https://octodex.github.com/images/stormtroopocat.jpg =100x20)
+![](https://octodex.github.com/images/stormtroopocat.jpg=100x20)
 
 <!--
 
