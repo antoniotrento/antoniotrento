@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-| - | - |
-|---|--|
-| I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
-| ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) | I am text to the right |
+ ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){:height="36px" width="36px"}
 
 <!--
 
@@ -37,5 +34,11 @@ https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+| - | - |
+|---|---|
+| I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
+| ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) | I am text to the right |
+
 
 -->
