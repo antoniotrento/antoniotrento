@@ -4,12 +4,12 @@
 
 ## Description under construction because I'm 🎯Focusing 
 
-I'm looking to undersand what I'll do with the lot of things that I have learned in the past 10 years:
+**I'm looking to undersand what I'll do in my future** with the lot of things that I have learned in the past 10 years:
 
-1. Web Marketing strategies (Yep a realy vast field of knowledge)
-2. Marketing and comunication stuffs
-3. Front end dev with static tecnologies
-4. Nerd stufs like coding, Build up web app enviroments, play with hardwares
+1. 🚀 Web Marketing strategies (Yep a realy vast field of knowledge)
+2. 🧙🏼 Marketing and comunication stuffs
+3. 🎨  Front end dev with static tecnologies
+4. 👨🏻‍💻 Nerd stufs like coding, Build up web app enviroments, play with hardwares
 
 ## Best things that I made
 
