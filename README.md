@@ -1,7 +1,5 @@
 <img align="right" style= "width: 225px; height: 351px; padding-top: 1em"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
 
-<img align="right" width=225px height=351px src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
-
 # Hi there 👋
 
 **antoniotrento/antoniotrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
