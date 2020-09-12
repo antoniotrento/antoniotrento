@@ -1,7 +1,5 @@
 # Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
 
-<br />
-
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
 
 ## Description under construction because I'm 🎯Focusing 
