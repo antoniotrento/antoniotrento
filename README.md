@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<div class="row">
-  <div class="col-md-6">
-    <p>test</p>    
-  </div>
-  <div class="col-md-6">
-    <p>test</p>
-  </div>
-</div>
