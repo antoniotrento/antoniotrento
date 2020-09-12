@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
+<!--
+
 <p align="right" width="100%">
     This text is also aligned to the right.<br>
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
@@ -49,6 +51,8 @@ Here are some ideas to get you started:
 [![5](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/5)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/5)
 [![6](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/6)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/6)
 [![7](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/7)
+
+-->
 
 <!--
 
