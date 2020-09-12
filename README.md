@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<img align="right" title="An Octocat from github.com" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="An Octocat from github.com" />
+<img align="right" width="50%" title="An Octocat from github.com" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="An Octocat from github.com" />
 
 ## Other stuffs that I use
 
