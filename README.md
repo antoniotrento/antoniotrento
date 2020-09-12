@@ -33,6 +33,12 @@ https://github.com/DavidWells/markdown-magic
 
 https://markdown-it.github.io/
 
+https://github.com/github/markup
+
+https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
 -->
 
 <!--
