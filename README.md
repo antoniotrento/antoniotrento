@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 | Priority apples | Second priority |
+|-------|--------|
+| ambrosia | gala |
+| pink lady | jazz |
+| honeycrisp | granny smith |
