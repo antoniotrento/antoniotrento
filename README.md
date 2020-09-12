@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-<div style="width:50%">![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)</div>
+<div width=50%>![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)</div>
 
 <!--
 
