@@ -1,4 +1,4 @@
-<img align="right" width="225px" height="351px" title="A gif from carlburton.io" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="A gif from carlburton.io" />
+<img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
 
 # Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
 
