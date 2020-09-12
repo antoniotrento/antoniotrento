@@ -1,4 +1,4 @@
-<img align="right" width="225px" height="351px" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
+<img align="right" width="225px" height="351px" title="A gif from carlburton.io" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="A gif from carlburton.io" />
 
 # Hi there 👋
 
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Alt text][id]
+<!--![Alt text][id]
 
 With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+-->
