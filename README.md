@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 <!--
 
+https://octodex.github.com/
+
 https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 
 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
