@@ -20,6 +20,7 @@
 3. [Fomofoto](https://fomofoto.net)
 4. [`Jorigamy`](https://jorigamy.github.io)
 5. [Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
+6. <img align="left" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> [Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
 
 ## Now I'm 🎯Focusing on
 
