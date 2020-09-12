@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg ){: .callout}
 
+| I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
+
 <!--
+
+https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 
 ![Flowers](/flowers.jpeg){: .callout}
 
