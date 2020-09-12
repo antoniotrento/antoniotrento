@@ -28,7 +28,7 @@
 
 ## Best things 💎 that I made
 
-<img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/labtocat.png" alt="An Octocat from github.com" />
+<img align="right" width="35%" title="An Octocat from github.com" src="https://octodex.github.com/images/labtocat.png" alt="An Octocat from github.com" />
 
 <br />
 
