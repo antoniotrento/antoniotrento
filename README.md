@@ -19,8 +19,6 @@ I'm looking to undersand what I'll do with the lot of things that I have learned
 4. [`Jorigamy`](https://jorigamy.github.io)
 5. [Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
 
-[![Top Langs](https://antonioreadmestats.vercel.app/api/top-langs/?username=antoniotrento&layout=compact)](https://github.com/jekynewage/jekynewage.github.io)
-
 ## Now I'm 🎯Focusing on
 
 [![0](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/0)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/0)
@@ -31,6 +29,12 @@ I'm looking to undersand what I'll do with the lot of things that I have learned
 [![5](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/5)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/5)
 [![6](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/6)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/6)
 [![7](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/sourcerer-app/links/7)
+
+## What I use here on GitHub
+
+<img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="An Octocat from github.com" />
+
+[![Top Langs](https://antonioreadmestats.vercel.app/api/top-langs/?username=antoniotrento&layout=compact)](https://github.com/antoniotrento)
 
 --------------------------------------------------------------------------------
 
