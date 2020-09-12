@@ -49,6 +49,8 @@
 
 ## What I use here on GitHub
 
+<br />
+
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="An Octocat from github.com" />
 
 [![Top Langs](https://antonioreadmestats.vercel.app/api/top-langs/?username=antoniotrento&layout=compact)](https://github.com/antoniotrento)
