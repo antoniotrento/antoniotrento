@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){:height="36px" width="36px"}
-
 <!--
 
 https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 
-![Flowers](/flowers.jpeg){: .callout}
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){:height="36px" width="36px"}
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){: width=50% }
 
