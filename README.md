@@ -11,6 +11,8 @@
 3. 🎨  Front end dev with static tecnologies
 4. 👨🏻‍💻 Nerd stufs like coding, Build up web app enviroments, play with hardwares
 
+<!-- Emoji from https://getemoji.com/ -->
+
 ## Best things that I made
 
 1. [Jekyll New Age Theme](https://jamstackthemes.dev/theme/jekyll-new-age/)
