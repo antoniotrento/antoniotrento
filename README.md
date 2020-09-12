@@ -1,6 +1,6 @@
 <img align="right" width="225px" height="351px" title="A gif from carlburton.io" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="A gif from carlburton.io" />
 
-# Hi there 👋
+# Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
 
 **antoniotrento/antoniotrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --------------------------------------------------------------------------------
-
-# Example Repo for [`markdown-magic`](https://github.com/DavidWells/markdown-magic)
 
 This repo demonstrates how markdown magic works. [View the raw `README.md`](https://raw.githubusercontent.com/DavidWells/repo-using-markdown-magic/master/README.md) file to see the comments needed for [`markdown-magic`](https://github.com/DavidWells/markdown-magic) to, well, do it's magic.
 
