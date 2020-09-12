@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat"){ width=50% }
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg | width=100)
+
+
 
 <!--
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg){ width=50% }
 
 ![Alt text][id]
 
