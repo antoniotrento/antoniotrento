@@ -1,5 +1,4 @@
 <img align="right" src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io"  width=225px height=351px />
-<!--<img align="right" src="https://github.com/labtocat/labtocat/blob/master/bat.png" alt="Illustration of me everyday" width=225px height=351px />-->
 
 # Hi there 👋
 
