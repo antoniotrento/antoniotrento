@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/labtocat/labtocat/blob/master/bat.png" alt="Illustration of me everyday" width=225px height=351px />
+<!--<img align="right" src="https://github.com/labtocat/labtocat/blob/master/bat.png" alt="Illustration of me everyday" width=225px height=351px />-->
+<img align="right" src="https://media.giphy.com/media/if9niVFg4IwAE/source.gif" alt="Illustration of me everyday" width=225px height=351px />
 ### Hi there 👋
 
 **antoniotrento/antoniotrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
