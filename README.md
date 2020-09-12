@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------------------
 
-<!--![Alt text][id]
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat"){ width=50% }
+
+<!--
+
+![Alt text][id]
 
 With a reference later in the document defining the URL location:
 
