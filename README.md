@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------------------
 
 | - | - |
-|---|---|
+|---|--|
 | I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
 | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) | I am text to the right |
 
