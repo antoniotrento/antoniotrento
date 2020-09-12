@@ -1,4 +1,6 @@
-<img style= "align: right; width: 225px; height: 351px; padding-top: 1em"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
+<img align: "right" style= "width: 225px; height: 351px; padding-top: 1em"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
+
+<img align="right" width=225px height=351px src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
 
 # Hi there 👋
 
@@ -14,6 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<img align="right" width=225px height=351px src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io"   />
