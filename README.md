@@ -39,5 +39,10 @@ With a reference later in the document defining the URL location:
 | I am text to the left  | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) |
 | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) | I am text to the right |
 
+https://stackoverflow.com/questions/255170/markdown-and-image-alignment#answer-5054055
+
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
+
+https://github.com/DavidWells/markdown-magic
 
 -->
