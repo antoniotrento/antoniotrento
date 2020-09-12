@@ -15,8 +15,8 @@
 
 ## Best things that I made
 
-1. [Jekyll New Age Theme](https://jamstackthemes.dev/theme/jekyll-new-age/){:target="_blank"}
-2. [`Pyagmail`](https://pyagmail.netlify.app/){:target="_blank"}
+1. [Jekyll New Age Theme](https://jamstackthemes.dev/theme/jekyll-new-age/){: target="blank"}
+2. [`Pyagmail`](https://pyagmail.netlify.app/){: target="_blank"}
 3. [Fomofoto](https://fomofoto.net)
 4. [`Jorigamy`](https://jorigamy.github.io)
 5. [Helium Theme](https://jamstackthemes.dev/theme/jekyll-helium-theme/)
