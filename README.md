@@ -1,6 +1,10 @@
+# Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
+
 <img align="right" width="33%" title="An Octocat from github.com" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="An Octocat from github.com" />
 
-# Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
+<br />
+
+---
 
 ## Description under construction because I'm 🎯Focusing 
 
@@ -10,6 +14,8 @@
 2. 🧙🏼 Marketing and comunication stuffs
 3. 🎨  Front end dev with static tecnologies
 4. 👨🏻‍💻 Nerd stufs like coding, Build up web app enviroments, play with hardwares
+
+---
 
 <!-- Emoji from https://getemoji.com/ -->
 <br />
