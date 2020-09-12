@@ -1,4 +1,4 @@
-<img align="right" style="padding: 10px 20px;"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
+<img align="right"  src="https://media.giphy.com/media/3oEduLJSDb3sGT7PQA/source.gif" alt="a gif from carlburton.io" />
 
 # Hi there 👋
 
