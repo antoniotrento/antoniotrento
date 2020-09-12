@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div class="row">
+  <div class="col-md-6">
+    <p>test</p>    
+  </div>
+  <div class="col-md-6">
+    <p>test</p>
+  </div>
+</div>
