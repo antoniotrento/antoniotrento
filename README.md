@@ -111,8 +111,8 @@
 
 <br />
 
-<details>
-<summary align="center">📈 My GitHub Stats</summary>
+<details align="center">
+<summary>📈 My GitHub Stats</summary>
 <p align="center"><img src="https://antonioreadmestats.vercel.app/api?username=antoniotrento&show_icons=true&theme=gotham" alt="antoniotrento" /></p>
 </details>
 
