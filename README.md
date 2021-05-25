@@ -38,7 +38,7 @@
 
 ---
 
-1. <p align="left"><a href="https://bloocks.dev" target="_blank"><b><code>Bloocks</code></b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
+1. <p align="left"><a href="https://bloocks.dev" target="_blank"><b>Bloocks</b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 2. <p align="left"><a href="https://jamstackthemes.dev/theme/jekyll-new-age/" target="_blank"><b><code>Jekyll New Age theme</code></b> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Pages" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
 3. <p align="left"><a href="https://pyagmail.netlify.app/" target="_blank"><b>Pyagmail</b> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="18" height="18"/></a></p>
 4. <p align="left"><a href="https://fomofoto.net" target="_blank"><code><b>Fomofoto</b></code> <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" alt="amp" width="18" height="18"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="18" height="18"/></a></p>
