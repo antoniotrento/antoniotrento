@@ -1,102 +1,46 @@
-# Hi there 👋 from [`Antonio Trento`](https://antoniotrento.net)
+# Hi, I'm Antonio Trento 👋 
+### System Architect & AI Integrator
 
-<p align="center">
-  <a href="https://twitter.com/lantoniotrento">
-    <img src="https://img.shields.io/badge/-@lantoniotrento-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/antoniotrento/">
-    <img src="https://img.shields.io/badge/-antoniotrento-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I transform complex business processes into automated workflows and build scalable digital ecosystems. I specialize in Python-driven architectures, enterprise integrations, and intelligent automation systems.
 
 ---
 
-## 🎯 I'm Focusing
+## 🏆 Featured Projects
 
-<img align="right" width="220" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat" />
+A selection of my most significant work. Explore my full portfolio at [antoniotrento.net/portfolio](https://antoniotrento.net/portfolio/).
 
-I'm looking to understand what I'll do in my future with the lot of things that I have learned in the past 10 years:
-
-1. 🚀 Web Marketing strategies (Yep a really vast field of knowledge)  
-2. 🧙🏼 Marketing and communication stuffs  
-3. 🎨 Front end dev with static technologies  
-4. 👨🏻‍💻 Nerd stuffs like coding, building web app environments, playing with hardware  
-
----
-
-## 💎 Best things that I made
-
-<img align="right" width="220" src="https://octodex.github.com/images/labtocat.png" alt="Octocat" />
-
-- [**Bloocks**](https://bloocks.dev)  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
-
-- [**Jekyll New Age theme**](https://jamstackthemes.dev/theme/jekyll-new-age/)  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
-
-- [**Fomofoto**](https://fomofoto.net)  
-  <img src="https://github.com/antoniotrento/antoniotrento/blob/master/img/ampproject-official.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
-
-- [**Jorigamy**](https://jorigamy.github.io)  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
-
-- [**Helium Theme**](https://jamstackthemes.dev/theme/jekyll-helium-theme/)  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
-
-- [**BarbaJekyll**](https://barbajekyll.github.io)  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="18" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="18" />
+* **[KineticMCP](https://antoniotrento.net/portfolio/kineticmcp/)** ⭐ *(Flagship Project)* – An advanced marketing automation platform designed for complex logic and distributed data management.
+* **[Kinetic-Core](https://antoniotrento.net/portfolio/kinetic-core/)** – The backbone of my automation ecosystem: a high-performance core library built for enterprise-grade workflows.
+* **[Cloudetta](https://antoniotrento.net/portfolio/cloudetta/)** – An open-source SME ecosystem integrating ERP, Business Intelligence, and automation (Docker, Django, n8n).
+* **[Audely](https://antoniotrento.net/portfolio/audely/)** – An advanced system for managing and optimizing audio/data streams through intelligent processing.
+* **[Coinmaker](https://antoniotrento.net/portfolio/coinmaker/)** – A multi-strategy algorithmic trading engine featuring risk management and backtesting modules.
 
 ---
 
-## 🎯 Now I'm Focusing on
+## 🛠 Tech Stack & Expertise
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" />
-</p>
+### **Core Development & Architecture**
+* **Languages:** Python (Advanced), Ruby, JavaScript, PHP.
+* **Backend & Infrastructure:** FastAPI, Node.js, Docker, Microservices Architecture.
+* **Data Engineering:** ETL Pipelines, MySQL, PostgreSQL, Oracle (Reverse Engineering).
 
----
-
-## ⚡️ What I use here on GitHub
-
-<img align="right" width="220" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Octocat" />
-
-[![Top Langs](https://antonioreadmestats.vercel.app/api/top-langs/?username=antoniotrento&layout=compact)](https://github.com/antoniotrento)
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-<br />
-<img src="https://antonioreadmestats.vercel.app/api?username=antoniotrento&show_icons=true" />
-</details>
+### **AI & Automation**
+* **LLM Integration:** Developing autonomous AI agents and RAG (Retrieval-Augmented Generation) workflows.
+* **Workflow Automation:** n8n Expert, designing complex enterprise process automations.
+* **Enterprise Ecosystems:** Salesforce & Odoo integrations, Custom BI solutions.
 
 ---
 
-## 🏗 Other stuffs that I use
+## 📊 GitHub Stats
 
-<img align="right" width="220" src="https://octodex.github.com/images/inspectocat.jpg" alt="Octocat" />
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotrento&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniotrento&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
-<p align="center">
-  Credits to <a href="https://github.com">GitHub</a> for Octocat images as a 
-  <a href="https://octodex.github.com/faq/#can-i-use-an-octocat-as-my-app-logo-or-icon">fair-use</a>
-</p>
+## 📫 Connect with me
+* **Website:** [antoniotrento.net](https://antoniotrento.net)
+* **Full Portfolio:** [antoniotrento.net/portfolio](https://antoniotrento.net/portfolio/)
+* **LinkedIn:** [linkedin.com/in/antoniotrento](https://www.linkedin.com/in/antoniotrento/)
+
+*"Automation isn't just about saving time; it's about architectural precision."*
