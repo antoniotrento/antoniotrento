@@ -9,6 +9,7 @@ I transform complex business processes into automated workflows and build scalab
 
 A selection of my most significant work. Explore my full portfolio at [antoniotrento.net/portfolio](https://antoniotrento.net/portfolio/).
 
+* **[DataUnchai](https://antoniotrento.net/portfolio/dataunchain/)** ⭐ *(Flagship Project)* – A document ingestion engine with an accurate AI Vision.
 * **[KineticMCP](https://antoniotrento.net/portfolio/kineticmcp/)** ⭐ *(Flagship Project)* – An advanced marketing automation platform designed for complex logic and distributed data management.
 * **[Kinetic-Core](https://antoniotrento.net/portfolio/kinetic-core/)** – The backbone of my automation ecosystem: a high-performance core library built for enterprise-grade workflows.
 * **[Cloudetta](https://antoniotrento.net/portfolio/cloudetta/)** – An open-source SME ecosystem integrating ERP, Business Intelligence, and automation (Docker, Django, n8n).
