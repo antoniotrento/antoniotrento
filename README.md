@@ -22,7 +22,10 @@
 | **[Kinetic-Core](https://antoniotrento.net/portfolio/kinetic-core/)** | Backbone | High-performance Core, Enterprise Workflows |
 | **[Cloudetta](https://antoniotrento.net/portfolio/cloudetta/)** | Ecosystem | Docker, Django, n8n, ERP Integration |
 | **[Audely](https://antoniotrento.net/portfolio/audely/)** | Processing | Intelligent Audio/Data Stream Optimization |
-| **[Coinmaker](https://antoniotrento.net/portfolio/coinmaker/)** | Trading | Algorithmic Strategy, Risk Management |
+| **[CryptoQuantix](https://antoniotrento.net/portfolio/cryptoquantix/)** | Trading | Algorithmic Strategy, Risk Management |
+| **[[Zirelia](https://antoniotrento.net/portfolio/zirelia/)** | AI, Social automation | Social Media virtual influencer pipeline |
+
+
 
 ---
 
